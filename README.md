@@ -1,8 +1,8 @@
 # 🧑🏻‍💻 Rafael Lima
 
-**`Desenvolvedor FullStack`**
+**`Backend Developer`**
 
-Me chamo Rafael Lima Gregorio, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Futura. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniAnchieta. Trabalho com tecnologia e gosto de compartilhar meu conhecimento através do meu LinkedIn e Rede Sociais.
+Me chamo Rafael Lima Gregorio, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Futura. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniAnchieta. Trabalho com tecnologia e gosto de compartilhar meu conhecimento através do meu LinkedIn e Rede Sociais.
 
 <p align="left">
     <a href="https://youtube.com/@devrafa">
